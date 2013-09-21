@@ -1,0 +1,11 @@
+Openwords_file_format priorities
+================================
+This file contains a list of priorities for the Openwords file format. The first contents are copied and pasted from an email from Jonathan North Washington to Marc Bogonovich regarding priorities.
+
+1. Jonathan_2013-09-21: Write a DTD for an XML version of the format.
+
+2. Jonathan_2013-09-21: Write a script for dumping each direction between SQL and XML.
+
+3. Jonathan_2013-09-21: Write scripts to scrape wiktionary, apertium, user-created spreadsheets, and similar data sources.
+
+4. Marc_2013-09-21: Begin user oriented documentation on the available GitHub wiki.
