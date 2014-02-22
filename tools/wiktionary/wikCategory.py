@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+#
 #Dalimil Hajek
 #often words are categorized in more then one category
 #like http://en.wiktionary.org/wiki/%D0%B0%D2%99%D0%B0%D2%A1#Bashkir - that's ok I only count it once
